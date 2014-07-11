@@ -1,6 +1,6 @@
 ﻿namespace Bluray_Backup_Management
 {
-    partial class Form1
+    partial class BBMForm
     {
         /// <summary>
         /// Required designer variable.
@@ -30,7 +30,7 @@
         {
             this.components = new System.ComponentModel.Container();
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.Text = "Form1";
+            this.Text = "BBM";
         }
 
         #endregion

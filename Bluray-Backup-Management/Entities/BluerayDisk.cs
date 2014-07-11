@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Bluray_Backup_Management.Entities
 {
-    class BluerayDisk
+    public class BluerayDisk
     {
         #region Properties
         private string _name;

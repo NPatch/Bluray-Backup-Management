@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Bluray_Backup_Management.Entities
 {
-    class Anime
+    public class Anime
     {
         #region Properties
         private string _name;

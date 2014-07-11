@@ -16,7 +16,7 @@ namespace Bluray_Backup_Management
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Form1());
+            Application.Run(new BBMForm());
         }
     }
 }

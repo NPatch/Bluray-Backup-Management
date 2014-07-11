@@ -1,0 +1,7 @@
+C:\Users\Nikos\Documents\GitHub\Bluray-Backup-Management\Bluray-Backup-Management\obj\Debug\Bluray_Backup_Management.Properties.Resources.resources
+C:\Users\Nikos\Documents\GitHub\Bluray-Backup-Management\Bluray-Backup-Management\obj\Debug\Bluray-Backup-Management.csproj.GenerateResource.Cache
+C:\Users\Nikos\Documents\GitHub\Bluray-Backup-Management\Bluray-Backup-Management\bin\Debug\Bluray-Backup-Management.exe.config
+C:\Users\Nikos\Documents\GitHub\Bluray-Backup-Management\Bluray-Backup-Management\bin\Debug\Bluray-Backup-Management.exe
+C:\Users\Nikos\Documents\GitHub\Bluray-Backup-Management\Bluray-Backup-Management\bin\Debug\Bluray-Backup-Management.pdb
+C:\Users\Nikos\Documents\GitHub\Bluray-Backup-Management\Bluray-Backup-Management\obj\Debug\Bluray-Backup-Management.exe
+C:\Users\Nikos\Documents\GitHub\Bluray-Backup-Management\Bluray-Backup-Management\obj\Debug\Bluray-Backup-Management.pdb

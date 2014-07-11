@@ -46,17 +46,18 @@
   <ItemGroup>
     <Compile Include="Entities\Anime.cs" />
     <Compile Include="Entities\BluerayDisk.cs" />
+    <Compile Include="Entities\Singleton.cs" />
     <Compile Include="Managers\AnimeManager.cs" />
     <Compile Include="Entities\Episode.cs" />
     <Compile Include="Entities\Movie.cs" />
     <Compile Include="Entities\Season.cs" />
     <Compile Include="Entities\TvSeries.cs" />
     <Compile Include="Interfaces\IWatchable.cs" />
-    <Compile Include="Form1.cs">
+    <Compile Include="BBMForm.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Form1.Designer.cs">
-      <DependentUpon>Form1.cs</DependentUpon>
+    <Compile Include="BBMForm.Designer.cs">
+      <DependentUpon>BBMForm.cs</DependentUpon>
     </Compile>
     <Compile Include="Managers\DiskManager.cs" />
     <Compile Include="Managers\MovieManager.cs" />

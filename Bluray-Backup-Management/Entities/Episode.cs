@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Bluray_Backup_Management.Entities
 {
-    class Episode : IWatchable
+    public class Episode : IWatchable
     {
         #region Properties
         private bool _watched;

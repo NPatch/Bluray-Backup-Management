@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Bluray_Backup_Management.Entities
 {
-    class Season
+    public class Season
     {
         #region Properties
         private int _number;

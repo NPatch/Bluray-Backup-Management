@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Bluray_Backup_Management.Entities
 {
-    class Movie
+    public class Movie
     {
         #region Properties
         private bool _watched;
