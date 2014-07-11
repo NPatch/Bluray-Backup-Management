@@ -1,0 +1,3 @@
+C:\Users\Nikos\Documents\Unity Projects\TestAdventure\Bluray Backup Management\Bluray Backup Management\bin\Debug\Bluray Backup Management.exe.config
+C:\Users\Nikos\Documents\GitHub\Bluray Backup Management\Bluray Backup Management\bin\Debug\Bluray Backup Management.exe.config
+C:\Users\Nikos\Documents\GitHub\Bluray Backup Management\Bluray Backup Management\bin\Debug\Bluray-Backup-Management.exe.config
