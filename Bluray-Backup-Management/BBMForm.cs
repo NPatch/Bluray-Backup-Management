@@ -73,11 +73,16 @@ namespace Bluray_Backup_Management
         public BBMForm()
         {
             InitializeDataBase();
-            this.diskManager.AddDisk(new BluerayDisk("Nikos"));
-            this.diskManager.AddDisk(new BluerayDisk("Jenny"));
+            BluerayDisk nikos = new BluerayDisk("Nikos");
+            nikos.AddAnimes(new Anime("Nikos1"),new Anime("Nikos2"));
+            BluerayDisk jenny = new BluerayDisk("Jenny");
+            jenny.AddShows(new TvSeries("Jenny1"),new TvSeries("Jenny2"));
+            BluerayDisk daphne = new BluerayDisk("Daphne");
+            daphne.AddMovies(new Movie("Daphne1"), new Movie("Daphne2"));
+            this.diskManager.AddDisks(nikos,jenny);
             InitializeComponent();
             InitializeTreeViews();
-            this.diskManager.AddDisk(new BluerayDisk("Daphne"));
+            this.diskManager.AddDisk(daphne);
         }
 
         #region Event Handlers

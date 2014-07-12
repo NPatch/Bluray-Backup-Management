@@ -1,0 +1,13 @@
+C:\Users\Nikos\Documents\GitHub\Bluray-Backup-Management\BlurayBackupManagement_WPF\bin\Debug\BlurayBackupManagement_WPF.exe.config
+C:\Users\Nikos\Documents\GitHub\Bluray-Backup-Management\BlurayBackupManagement_WPF\obj\Debug\BlurayBackupManagement_WPF.csprojResolveAssemblyReference.cache
+C:\Users\Nikos\Documents\GitHub\Bluray-Backup-Management\BlurayBackupManagement_WPF\obj\Debug\MainWindow.baml
+C:\Users\Nikos\Documents\GitHub\Bluray-Backup-Management\BlurayBackupManagement_WPF\obj\Debug\MainWindow.g.cs
+C:\Users\Nikos\Documents\GitHub\Bluray-Backup-Management\BlurayBackupManagement_WPF\obj\Debug\App.g.cs
+C:\Users\Nikos\Documents\GitHub\Bluray-Backup-Management\BlurayBackupManagement_WPF\obj\Debug\BlurayBackupManagement_WPF_MarkupCompile.cache
+C:\Users\Nikos\Documents\GitHub\Bluray-Backup-Management\BlurayBackupManagement_WPF\obj\Debug\BlurayBackupManagement_WPF.g.resources
+C:\Users\Nikos\Documents\GitHub\Bluray-Backup-Management\BlurayBackupManagement_WPF\obj\Debug\BlurayBackupManagement_WPF.Properties.Resources.resources
+C:\Users\Nikos\Documents\GitHub\Bluray-Backup-Management\BlurayBackupManagement_WPF\obj\Debug\BlurayBackupManagement_WPF.csproj.GenerateResource.Cache
+C:\Users\Nikos\Documents\GitHub\Bluray-Backup-Management\BlurayBackupManagement_WPF\bin\Debug\BlurayBackupManagement_WPF.exe
+C:\Users\Nikos\Documents\GitHub\Bluray-Backup-Management\BlurayBackupManagement_WPF\bin\Debug\BlurayBackupManagement_WPF.pdb
+C:\Users\Nikos\Documents\GitHub\Bluray-Backup-Management\BlurayBackupManagement_WPF\obj\Debug\BlurayBackupManagement_WPF.exe
+C:\Users\Nikos\Documents\GitHub\Bluray-Backup-Management\BlurayBackupManagement_WPF\obj\Debug\BlurayBackupManagement_WPF.pdb
