@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Controls;
-using BlurayBackupManagement_WPF.Entities;
+using BlurayBackupManagement.Entities;
 
 namespace BlurayBackupManagement_WPF.TreeViewItems
 {

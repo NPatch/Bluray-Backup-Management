@@ -12,8 +12,8 @@ using System.Windows.Media;
 using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
-using BlurayBackupManagement_WPF.Managers;
-using BlurayBackupManagement_WPF.Entities;
+using BlurayBackupManagement.Entities;
+using BlurayBackupManagement.Managers;
 using BlurayBackupManagement_WPF.TreeViewItems;
 
 namespace BlurayBackupManagement_WPF

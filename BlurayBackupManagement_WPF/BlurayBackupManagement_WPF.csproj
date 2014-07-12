@@ -62,24 +62,12 @@
       <DependentUpon>App.xaml</DependentUpon>
       <SubType>Code</SubType>
     </Compile>
-    <Compile Include="Entities\Anime.cs" />
-    <Compile Include="Entities\BluerayDisk.cs" />
-    <Compile Include="Entities\Episode.cs" />
-    <Compile Include="Entities\Movie.cs" />
-    <Compile Include="Entities\Season.cs" />
-    <Compile Include="Entities\Singleton.cs" />
-    <Compile Include="Entities\TvSeries.cs" />
-    <Compile Include="Interfaces\IWatchable.cs" />
     <Compile Include="MainWindow.xaml.cs">
       <DependentUpon>MainWindow.xaml</DependentUpon>
       <SubType>Code</SubType>
     </Compile>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Managers\AnimeManager.cs" />
-    <Compile Include="Managers\DiskManager.cs" />
-    <Compile Include="Managers\MovieManager.cs" />
-    <Compile Include="Managers\TvSeriesManager.cs" />
     <Compile Include="Properties\AssemblyInfo.cs">
       <SubType>Code</SubType>
     </Compile>
@@ -105,6 +93,12 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\BlurayBackupManagement\BlurayBackupManagement.csproj">
+      <Project>{357b9e4e-846c-4a94-a90c-6e8af35b4668}</Project>
+      <Name>BlurayBackupManagement</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
