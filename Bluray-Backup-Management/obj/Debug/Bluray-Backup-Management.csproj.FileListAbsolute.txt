@@ -5,3 +5,5 @@ C:\Users\Nikos\Documents\GitHub\Bluray-Backup-Management\Bluray-Backup-Managemen
 C:\Users\Nikos\Documents\GitHub\Bluray-Backup-Management\Bluray-Backup-Management\bin\Debug\Bluray-Backup-Management.pdb
 C:\Users\Nikos\Documents\GitHub\Bluray-Backup-Management\Bluray-Backup-Management\obj\Debug\Bluray-Backup-Management.exe
 C:\Users\Nikos\Documents\GitHub\Bluray-Backup-Management\Bluray-Backup-Management\obj\Debug\Bluray-Backup-Management.pdb
+C:\Users\Nikos\Documents\GitHub\Bluray-Backup-Management\Bluray-Backup-Management\obj\Debug\Bluray-Backup-Management.csprojResolveAssemblyReference.cache
+C:\Users\Nikos\Documents\GitHub\Bluray-Backup-Management\Bluray-Backup-Management\obj\Debug\Bluray_Backup_Management.BBMForm.resources

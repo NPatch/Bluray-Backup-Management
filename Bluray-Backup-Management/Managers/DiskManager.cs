@@ -20,6 +20,9 @@ namespace Bluray_Backup_Management.Managers
         #region Events
         public delegate void DiskAddedDelegate(BluerayDisk disk);
         public event DiskAddedDelegate diskAdded;
+
+        public delegate void ItemAddedDelegate();
+        public event ItemAddedDelegate itemAdded;
         #endregion
 
         #region Methods
@@ -30,7 +33,12 @@ namespace Bluray_Backup_Management.Managers
 
         public void AddDisk(BluerayDisk disk)
         {
-            if(!disks[disk.Name[0]].Contains(disk)){
+            if (!disks.ContainsKey(disk.Name[0]))
+            {
+                disks.Add(disk.Name[0], new List<BluerayDisk>());
+            }
+            if (!disks[disk.Name[0]].Contains(disk))
+            {
                 disks[disk.Name[0]].Add(disk);
                 OnDiskAdded(disk);
             }
@@ -59,6 +67,14 @@ namespace Bluray_Backup_Management.Managers
         {
             if(diskAdded != null){
                 diskAdded(disk);
+                OnItemAdded();
+            }
+        }
+
+        public void OnItemAdded()
+        {
+            if(itemAdded != null){
+                itemAdded();
             }
         }
         #endregion
