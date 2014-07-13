@@ -1,0 +1,5 @@
+C:\Users\Nikos\Documents\GitHub\Bluray-Backup-Management\BlurayBackupManagement\bin\Debug\BlurayBackupManagement.dll
+C:\Users\Nikos\Documents\GitHub\Bluray-Backup-Management\BlurayBackupManagement\bin\Debug\BlurayBackupManagement.pdb
+C:\Users\Nikos\Documents\GitHub\Bluray-Backup-Management\BlurayBackupManagement\obj\Debug\BlurayBackupManagement.csprojResolveAssemblyReference.cache
+C:\Users\Nikos\Documents\GitHub\Bluray-Backup-Management\BlurayBackupManagement\obj\Debug\BlurayBackupManagement.dll
+C:\Users\Nikos\Documents\GitHub\Bluray-Backup-Management\BlurayBackupManagement\obj\Debug\BlurayBackupManagement.pdb
